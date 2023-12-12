@@ -1,0 +1,44 @@
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\obj\Debug\CRUD - Lógica.csproj.AssemblyReference.cache
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\obj\Debug\CRUD - Lógica.csproj.SuggestedBindingRedirects.cache
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\obj\Debug\CRUD - Lógica.exe.config
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\obj\Debug\CRUD___Lógica.Form1.resources
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\obj\Debug\CRUD___Lógica.Properties.Resources.resources
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\obj\Debug\CRUD - Lógica.csproj.GenerateResource.cache
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\obj\Debug\CRUD - Lógica.csproj.CoreCompileInputs.cache
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\CRUD - Lógica.exe.config
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\CRUD - Lógica.exe
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\CRUD - Lógica.pdb
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\Google.Protobuf.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\K4os.Compression.LZ4.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\K4os.Hash.xxHash.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\MySql.Data.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Buffers.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.IO.Pipelines.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Memory.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Numerics.Vectors.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\ZstdSharp.dll
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\Google.Protobuf.pdb
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\Google.Protobuf.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\K4os.Compression.LZ4.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\K4os.Hash.xxHash.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\MySql.Data.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Buffers.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.IO.Pipelines.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Memory.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Numerics.Vectors.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\obj\Debug\CRUD - Lógica.csproj.CopyComplete
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\obj\Debug\CRUD - Lógica.exe
+D:\Meus Arquivos\Cotemig 2 ano\Logica\CRUD - Lógica\CRUD - Lógica\obj\Debug\CRUD - Lógica.pdb
